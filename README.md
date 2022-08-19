@@ -1,1 +1,1 @@
-https://mksorna.github.io/facerecogintion/
+https://mksorna.github.io/facerecogintion
